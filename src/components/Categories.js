@@ -3,7 +3,7 @@ import { Col, Row } from 'react-bootstrap'
 
 function Categories({ filterbyCategory, allCategory }) {
    const onFilter = (cat) => {
-    // filter by category
+    // filter by categorya
     filterbyCategory(cat)
    }
   return (
