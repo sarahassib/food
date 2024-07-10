@@ -43,7 +43,7 @@ export const items =[
         description : 'thi is a lunch plates',
         price : '75 dh',
         category : 'lunch',
-        img : 'background.jpg'
+        img : 'sffa.jpeg'
 
 
     },
@@ -62,30 +62,30 @@ export const items =[
     {
         id :Math.random(),
         title : 'lunche plates',
-        description : 'thi is a lunch plates',
+        description : 'moroccan passtila 🇲🇦 البسطيلة المغربية',
         price : '75 dh',
         category : 'lunch',
-        img : 'background.jpg'
+        img : 'pastila.jpeg'
 
 
     },
     {
         id :Math.random(),
         title : 'lunch height plates',
-        description : 'thi is a height lunch plates',
+        description : 'Moroccan Couscous الكسكس المغربي 🇲🇦',
         price : '75 dh',
         category : 'lunch',
-        img : 'background.jpg'
+        img : 'koskous.jpeg'
 
 
     },
     {
         id :Math.random(),
         title : 'dinner plates',
-        description : 'thi is a dinnerplates',
+        description : 'thi is poulet',
         price : '75 dh',
         category : 'dinner',
-        img : 'background.jpg'
+        img : 'djaj.jpeg'
 
 
     },
@@ -93,10 +93,10 @@ export const items =[
     {
         id :Math.random(),
         title : 'dinner height plates',
-        description : 'thi is a height dinner plates',
+        description : 'A homemade spicy Italian Penne Arrabiata pasta dish made with a deeply flavoured sauce',
         price : '75 dh',
         category : 'dinner',
-        img : 'background.jpg'
+        img : 'pattes.jpeg'
 
 
     },
@@ -104,10 +104,10 @@ export const items =[
     {
         id :Math.random(),
         title : 'dinner plates',
-        description : 'thi is a dinnerplates',
+        description : 'thi is tanjya',
         price : '75 dh',
         category : 'dinner',
-        img : 'background.jpg'
+        img : 'tanjia.jpeg'
 
 
     },
@@ -119,7 +119,7 @@ export const items =[
         description : 'thi is a height dinner plates',
         price : '75 dh',
         category : 'dinner',
-        img : 'background.jpg'
+        img : 'salad.jpeg'
 
 
     },
